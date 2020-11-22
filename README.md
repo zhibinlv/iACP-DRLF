@@ -30,5 +30,5 @@ Install in Ubuntu Linux 18.04
 
    python test.py
    
-  ![image](./img/Test.png)
+  ![image](https://github.com/zhibinlv/iACP-DRLF/blob/main/img/Test01.PNG)
  
