@@ -28,7 +28,7 @@ Install in Ubuntu Linux 18.04
 
 1. To validate the paper independent test, run the following code.
 
-```python test.py
-<p align='center'>
-<img src='img/Test.png' title='Test_images' style='max-width:600px'></img>
-</p>
+   python test.py
+   
+  ![image](./img/Test.png)
+ 
