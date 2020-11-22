@@ -28,7 +28,18 @@ Install in Ubuntu Linux 18.04
 
 1. To validate the paper independent test, run the following code.
 
-   python test.py
+    
+   <font color=red>python test.py</font>
    
   ![image](https://github.com/zhibinlv/iACP-DRLF/blob/main/img/Test01.PNG)
+  
+ 2. To use iACP-DRLF
+
+   <font color=red>python -m {A or M} -i {sequences in FASTA format} -o {output a CSV file} </font>
+   
+ >>A is for Alternate dataset trained model
+ 
+ >>M is for Main dataset trained model 
+ 
+ 
  
