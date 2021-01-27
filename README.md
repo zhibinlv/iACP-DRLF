@@ -1,5 +1,7 @@
 # iACP-DRLF
 Anti-Cancer Peptide Prediction with Deep Representation Learning Features
+#How cite the paper?
+
 
 This repository contains the source code and links to the data and pretrained embedding models accompanying the iACP-DRLF paper: Anti-Cancer Peptide Prediction with Deep Representation Learning Features
 
