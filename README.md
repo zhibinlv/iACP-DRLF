@@ -8,7 +8,7 @@ Zhibin Lv †, Feifei Cui †, Quan Zou , Lichao Zhang and Lei Xu,Anticancer pep
 representation learning features,Briefings in Bioinformatics, 2021, doi: 10.1093/bib/bbab008 <br>
 
 <br>
-††Authors with equally contribution
+†Authors with equally contribution
 
 
 
