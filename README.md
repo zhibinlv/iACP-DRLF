@@ -2,10 +2,10 @@
 Anti-Cancer Peptide Prediction with Deep Representation Learning Features<br>
 This repository contains the source code and links to the data and pretrained embedding models accompanying the iACP-DRLF paper: Anti-Cancer Peptide Prediction with Deep Representation Learning Features<br>
 
-#How cite the paper?<br>
+# How cite the paper?<br>
 <div id="refer-anchor-1"></div>
 -[1][Zhibin Lv †, Feifei Cui †, Quan Zou , Lichao Zhang and Lei Xu,Anticancer peptides prediction with deep
-representation learning features,Briefings in Bioinformatics, 00(00), 2021, doi: 10.1093/bib/bbab008](http://xueshu.baidu.com/)
+representation learning features,Briefings in Bioinformatics, 2021, doi: 10.1093/bib/bbab008](http://xueshu.baidu.com/)
 
 
 
