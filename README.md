@@ -4,8 +4,11 @@ This repository contains the source code and links to the data and pretrained em
 
 # How to cite the paper?<br>
 <div id="refer-anchor-1"></div>
--Zhibin Lv †, Feifei Cui †, Quan Zou , Lichao Zhang and Lei Xu,Anticancer peptides prediction with deep
-representation learning features,Briefings in Bioinformatics, 2021, doi: 10.1093/bib/bbab008
+Zhibin Lv †, Feifei Cui †, Quan Zou , Lichao Zhang and Lei Xu,Anticancer peptides prediction with deep
+representation learning features,Briefings in Bioinformatics, 2021, doi: 10.1093/bib/bbab008 <br>
+
+<br>
+††Authors with equally contribution
 
 
 
